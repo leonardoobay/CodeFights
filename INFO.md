@@ -1,0 +1,1 @@
+## Just a couple problems from  Code Signal Arcade Section to practice C# 
